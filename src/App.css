@@ -1,0 +1,35 @@
+.todo-form-box {
+    background: rgb(37,148,71);
+    background: linear-gradient(127deg, rgba(37,148,71,1) 31%, rgba(29,60,170,1) 70%);
+    padding: 50px 0;
+}
+.todo-form-inner-box button {
+    padding: 6px 50px;
+}
+.todo-list-box {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.todo-list-item-box {
+    width: 50%;
+}
+.todo-item, .todo-item-edit {
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.todo-item hr, .todo-item-edit hr {
+    border-color: #0000004d;
+}
+.todo-item-btn {
+    margin-right: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.todo-item-edit {
+    display: flex;
+    align-items: center;
+    padding: 40px 20px;
+}
+.todo-item-edit-form {
+    width: 100%;
+}
